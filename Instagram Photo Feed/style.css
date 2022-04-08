@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(231, 234, 255);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topbar{
+    background: white;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 50px;
+    
+}
+
+.midcard1{
+  background-color: white;
+  width: 640px;
+  height: 580px;
+  text-align: center;
+  position: relative;
+  justify-content: center;
+  margin: auto;
+  margin-top: 30px;
+  
+}
+
+
+
+  .myfirsttext{
+    font-weight: bold;
+    padding: 10px;
+    margin: 0;
+    padding-right: 10px;
+    text-align: left;
+    border: 0;
+}
+
+.fraction{
+    text-align: right;
+    padding: 10px;
+    margin: 0;
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    color: rgb(207, 208, 209);  
+}
+.img1{
+    width: 640px;
+
+}
+.comment{
+    padding-left: 40px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.breathecode{
+    font-weight: bold;
+}
+
+
+ 
